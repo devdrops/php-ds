@@ -15,6 +15,6 @@ Samples with PHP data structures, from:
 ### Example
 
 ```bash
-make run COMMAND='dll/index.php'
+make run COMMAND='spl/dll/index.php'
 ```
 
